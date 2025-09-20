@@ -1,6 +1,4 @@
-import tkinter as tk  # Importo la biblioteca tkinter con un alias más corto
-from tkinter import ttk  # Importo los widgets temáticos de tkinter para una mejor apariencia
-from tkinter import messagebox  # Importo los cuadros de diálogo para mostrar mensajes al usuario
+
 
 
 class AplicacionPrincipal:  # Defino mi clase principal que manejará toda la aplicación
